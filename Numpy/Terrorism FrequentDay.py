@@ -1,4 +1,6 @@
-# 
+# Find the most frequent day of attack in a terrorismDataset ?
+# Note: Here np.unique can be used.
+# Print count of frequent day and number of attack as Integer value.
 import csv
 import numpy as np
 with open("terrorismData.csv",encoding="utf8") as file_obj:
