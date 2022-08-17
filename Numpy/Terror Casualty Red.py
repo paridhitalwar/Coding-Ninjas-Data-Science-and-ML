@@ -1,4 +1,6 @@
-# 
+# Find the casualty in the Red Corridor States ? Mainly Red corridor states include Jharkhand, Odisha, Andhra Pradesh, and Chhattisgarh.
+# Note: Casualty=Killed +Wounded
+# Print count of Casualty as integer value.
 
 import numpy as np
 import csv
